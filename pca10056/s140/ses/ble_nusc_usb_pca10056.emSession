@@ -1,0 +1,57 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="557" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../main.c" useHWbreakpoint="false"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="ble_nusc_usb_pca10056"/>
+  <ProjectSessionItem path="ble_nusc_usb_pca10056;ble_nusc_usb_pca10056"/>
+  <ProjectSessionItem path="ble_nusc_usb_pca10056;ble_nusc_usb_pca10056;Application"/>
+  <ProjectSessionItem path="ble_nusc_usb_pca10056;ble_nusc_usb_pca10056;Board Definition"/>
+  <ProjectSessionItem path="ble_nusc_usb_pca10056;ble_nusc_usb_pca10056;Board Support"/>
+  <ProjectSessionItem path="ble_nusc_usb_pca10056;ble_nusc_usb_pca10056;None"/>
+  <ProjectSessionItem path="ble_nusc_usb_pca10056;ble_nusc_usb_pca10056;nRF_BLE"/>
+  <ProjectSessionItem path="ble_nusc_usb_pca10056;ble_nusc_usb_pca10056;nRF_BLE_Services"/>
+  <ProjectSessionItem path="ble_nusc_usb_pca10056;ble_nusc_usb_pca10056;nRF_Drivers"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="708" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="500" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="94" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="66" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="248" useTextEdit="1" openedFrom="C:/Nordic_Semi/SDK/nRF5_SDK_17.1.0_ddde560/examples/ble_central/ble_nusc_usb/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_nus_c/ble_nus_c.c" selected="0" top="233" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="124" useTextEdit="1" openedFrom="C:/Nordic_Semi/SDK/nRF5_SDK_17.1.0_ddde560/examples/ble_central/ble_nusc_usb/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_nus_c/ble_nus_c.h" selected="0" top="121" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="106" useTextEdit="1" openedFrom="C:/Nordic_Semi/SDK/nRF5_SDK_17.1.0_ddde560/examples/ble_central/ble_nusc_usb/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/usbd/class/cdc/acm/app_usbd_cdc_acm.h" selected="0" top="90" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="134" useTextEdit="1" openedFrom="C:/Nordic_Semi/SDK/nRF5_SDK_17.1.0_ddde560/examples/ble_central/ble_nusc_usb/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/usbd/app_usbd_types.h" selected="0" top="104" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="ble_nusc_usb_pca10056" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/Nordic_Semi/SDK/nRF5_SDK_17.1.0_ddde560/components/ble/common" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
