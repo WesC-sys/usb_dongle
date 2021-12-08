@@ -1,6 +1,6 @@
 .._usb_dongle
 
-Bluetooth: CENTRAL UART WITH USB_ACM_CDC
+Bluetooth: CENTRAL UART WITH USB_CDC_ACM
 ****************************************
 
 .This file contains the source code for a sample application that uses the Nordic UART service Client
