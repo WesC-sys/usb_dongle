@@ -1,7 +1,7 @@
 .._usb_dongle
 
 Bluetooth: CENTRAL UART WITH USB_ACM_CDC
-#########################################
+****************************************
 
 .This file contains the source code for a sample application that uses the Nordic UART service Client
 and USBD CDC ACM library for use with the PCA10059 Dongle
